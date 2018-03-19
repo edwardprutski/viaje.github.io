@@ -1,2 +1,2 @@
 # viaje.github.io
-Travel wise, Discover Europe, Travel buddy, Viaje
+Useful https://1stwebdesigner.com/parallax-scrolling-tutorial/
