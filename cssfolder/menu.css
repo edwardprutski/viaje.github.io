@@ -42,8 +42,26 @@ h3 {
 #nav li a:hover { color: #ffffff; opacity:1;}
 
 
-/* Intro */
+/* Screen elements */
 
 #box_ { background: url()no-repeat;}
 
+/* Slides */
+
+#slide1{
+    background:url(../imgfolder/europe.jpg) 50% 0 no-repeat fixed;
+    color: #ffffff;
+    height: 600px;
+    margin: 0;
+    padding: 450px 0 260px 0;
+    background-size: cover;
+}
+#slide2{
+    background:url(../imgfolder/germany.jpg) 50% 0 no-repeat fixed;
+    color:#ffffff;
+    height: 600px;
+    margin: 0;
+    padding: 450px 0 260px 0;
+    background-size: cover;
+}
 
