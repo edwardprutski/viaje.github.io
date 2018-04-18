@@ -15,11 +15,14 @@ h3 {
 
 .center { margin: 0 auto; }
 .content{ margin: 0 auto; width: 80%;}
+.contentimg { display:block; margin-left: auto; margin-right: auto; width: 50%; }
 .clear { clear:both; }
+
 
 /* Screen elements */
 
-#box_ { background: url(../imgfolder/box.png) no-repeat; width: 184px; height: 66px; margin: 0 auto; display: block; position: relative; top: -55px; }
+
+/*#box_ { background: url(../imgfolder/box.png) no-repeat; width: 184px; height: 66px; margin: 0 auto; display: block; position: relative; top: -55px; }*/
 
 #header {
     width: 100%;
@@ -45,10 +48,9 @@ h3 {
 #nav li a:hover { color: #ffffff; opacity:1;}
 
 
-
 /* Slides */
 
-#backgroundEurope{
+#slide1{
     background:url(../imgfolder/europe.jpg) 50% 0 no-repeat fixed;
     color: #ffffff;
     height: 600px;
