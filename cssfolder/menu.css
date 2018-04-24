@@ -42,7 +42,6 @@ button {
     margin: 1em auto;
     padding: 2em 6em;
     position: relative;
-    scale
 }
 
 button::before,
@@ -55,7 +54,7 @@ button::after {
 
 button:hover {
     cursor: pointer;
-    color: #808080;
+    color: #000000;
     background: #ffffff;
 }
 
